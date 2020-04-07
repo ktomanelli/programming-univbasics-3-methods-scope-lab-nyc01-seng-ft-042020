@@ -4,6 +4,6 @@ phrase ="It's-a me, Mario!"
   puts phrase
 end
 
-def toadstool
+def toadstool(status)
   puts status
 end
